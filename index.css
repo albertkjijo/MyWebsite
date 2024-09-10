@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+*{text-decoration: none;}
+body {background-color: #f2f2ff}
+.heading {text-align: center;
+font-size: 150%;
+color: #0d1031}
+.opensong {text-align: center;
+color: #0d1131;}
+.otherlink {text-align: center;
+	font-style: normal;
+	color: #0d0f31;
+	font-weight: bold;
+	text-decoration: none;
+	}
+.nextpagebutton {text-align: center;
+	font-style: normal;
+	color: #0d0e31;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 170%;
+	}
+.Paragraph {font-weight: bold;
+font-size: 140%;
+color: #0d1131;
+text-align: justify;
+margin-left: 7%;
+margin-right: 7%}
+
+.navbar {
+	background-color: #0f0d6b;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	padding-left: 15px;padding-right: 15px;
+	width: auto;
+	
+	
+}
+.navdiv {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	
+}
+li {
+	list-style: none;
+	display: inline-block;
+	
+}
+li a {
+	color: rgb(242, 241, 255);
+	font-size: 2em;
+	font-weight: normal;
+	margin-left: 2em;
+	margin-top: 20%;
+	
+}
+
+button{
+	color: rgb(215, 218, 250);
+	margin-left: 25px;
+	font-size: 18px;
+	border-radius: 10px;
+	border-width: 1px;
+	background-color: #2a2573
+	
+}
+.sign {color: #ffffff;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-weight: normal;
+	margin: 20px;
+}
+	
+
+
+	
+.oldblog{
+	font-size: 25px;
+	font-weight: normal
+}
+.logo img {
+	width: 60px;
+	height: 60px;
+	margin: 5px;
+	border-radius: 60px;
+	margin-right: 5px
+}
+.writing{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+.heading{font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"}
+.lastlines{text-align:center;
+text-decoration:inherit}
+
+.email {text-align: center;
+	;font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+
+.email a {color: #0d0e31;}
+.writingsoon{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-align: center;
+}
